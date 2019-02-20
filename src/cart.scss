@@ -1,0 +1,11 @@
+.cart{
+    margin:50px 0 0 50px;
+    display: flex;
+    .products{
+        flex:4;
+    }
+    .purchases{
+        flex:2;
+
+    }
+}
